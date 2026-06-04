@@ -1,9 +1,8 @@
 # Sistema de Controle de Estoque Interativo
 
-![Python Version](https://shields.io)
-![PEP 8](https://shields.io)
-![Contributions](https://shields.io)
-
+![Python Version]
+![PEP 8]
+![Contributions]
 Um sistema simples, robusto e totalmente interativo via terminal para gerenciamento e controle de estoque de produtos, desenvolvido em **Python**. A aplicação utiliza uma estrutura de dados baseada em uma lista de dicionários, simulando perfeitamente o comportamento de uma API estruturada no formato **JSON**.
 
 O projeto foi revisado, corrigido e estruturado rigorosamente sob as diretrizes de estilo da **PEP 8**.
@@ -38,11 +37,11 @@ Você precisa apenas do **Python 3** instalado em sua máquina.
 ### Passo a Passo
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/PallasAtena/BD
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd BD
    ```
 3. Execute o script principal:
    ```bash
