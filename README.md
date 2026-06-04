@@ -45,7 +45,7 @@ Você precisa apenas do **Python 3** instalado em sua máquina.
    ```
 3. Execute o script principal:
    ```bash
-   python estoque.py
+   estoque.py
    ```
 
 ---
