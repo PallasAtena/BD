@@ -37,15 +37,15 @@ Você precisa apenas do **Python 3** instalado em sua máquina.
 ### Passo a Passo
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/PallasAtena/BD
+   https://github.com/PallasAtena/BD
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd BD
+   BD
    ```
 3. Execute o script principal:
    ```bash
-   estoque.py
+   BD.py
    ```
 
 ---
